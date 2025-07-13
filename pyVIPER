@@ -1,0 +1,8 @@
+git clone https://github.com/alevax/pyviper/
+cd pyviper
+pip install -e 
+https://www.bioconductor.org/packages/release/bioc/html/viper.html
+https://alevax.github.io/pyviper/Tutorial-1.html
+
+
+##Install repo and create ann data object
